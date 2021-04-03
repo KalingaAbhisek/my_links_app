@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+This is my first app which I created. 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
